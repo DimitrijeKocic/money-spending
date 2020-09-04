@@ -1,0 +1,9 @@
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\bin\Debug\CountMoneySpending.exe.config
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\bin\Debug\CountMoneySpending.exe
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\bin\Debug\CountMoneySpending.pdb
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\obj\Debug\CountMoneySpending.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\obj\Debug\CountMoneySpending.Form1.resources
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\obj\Debug\CountMoneySpending.Properties.Resources.resources
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\obj\Debug\CountMoneySpending.csproj.GenerateResource.cache
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\obj\Debug\CountMoneySpending.exe
+C:\Users\dimit\Desktop\CountMoneySpending\CountMoneySpending\obj\Debug\CountMoneySpending.pdb
